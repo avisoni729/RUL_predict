@@ -1,0 +1,2 @@
+# RUL_predict
+Machine Failure Prediction & RUL Estimation - build a predictive maintenance model using SCADA data to estimate Remaining Useful Life (RUL) of industrial machines. Applied feature engineering and trained an XGBoost model achieving RMSE of 17.8. Evaluated model performance with overprediction rate of 38% to balance maintenance risk. Improved early fault detection and supported data-driven maintenance decisions.
